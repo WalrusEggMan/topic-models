@@ -1,1 +1,2 @@
-# Latent Dirichlet Allocationa generative model for text topics modelingDavid M. Blei, Andrew Y. Ng, Michael I. Jordan (2002)
+# Latent Dirichlet Allocationa generative model for text topics modeling
+David M. Blei, Andrew Y. Ng, Michael I. Jordan (2002)
